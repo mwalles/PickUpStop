@@ -12,7 +12,7 @@ A digital board that manages rides from train stations to nearby areas
 
 ![SCREESHOT DECSRIPTION](screenshots/main_screen2.PNG)
 
-#####after scanning the right QR code : 
+after scanning QR code in the right: 
 
 ![SCREESHOT DECSRIPTION](screenshots/details_screenShot.PNG)
 
