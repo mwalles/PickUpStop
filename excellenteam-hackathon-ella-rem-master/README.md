@@ -8,6 +8,8 @@ A digital board that manages rides from train stations to nearby areas
 
 ## Screenshots
 
+The red circle indicates the location of the nearest station
+The QR codes on the map indicate destination points for car owners who want to take hitchhikers with them
 ![SCREESHOT DECSRIPTION](screenshots/main_screen.PNG)
 
 ![SCREESHOT DECSRIPTION](screenshots/main_screen2.PNG)
