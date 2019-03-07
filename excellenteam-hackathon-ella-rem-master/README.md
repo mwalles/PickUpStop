@@ -1,4 +1,4 @@
-# TrainTremp
+# PickUpStop
 A digital board that manages rides from train stations to nearby areas
 
 * Michale Walles
