@@ -64,4 +64,4 @@ def generate_map(next_stop):
 
 
 if __name__ == "__main__":
-    map_osm.save('stamen_toner.html')
+    generate_map(6).save('stamen_toner.html')

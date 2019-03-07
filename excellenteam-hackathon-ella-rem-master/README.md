@@ -1,37 +1,34 @@
 # TrainTremp
-{ONE LINE PROJECT DESCRIPTION HERE}
+A digital board that manages rides from train stations to nearby areas
 
 * Michale Walles
 * Ruhami Tehila Bichman
 * Elisheva Shmuel
-* Shilat
-
-{OPTIONAL: MORE PROJECT INFO}
+* Shilat Mayzel Feuchtwanger
 
 ## Screenshots
 
-![SCREESHOT DECSRIPTION](screenshots/excellenteam-logo.jpeg)
+![SCREESHOT DECSRIPTION](screenshots/main_screen.PNG)
 
-## How to Run This Bot
+![SCREESHOT DECSRIPTION](screenshots/main_screen2.PNG)
+
+#####after scanning the right QR code : 
+
+![SCREESHOT DECSRIPTION](screenshots/details_screenShot.PNG)
 
 ### Prerequisites
-* {EDIT AND ADD MORE DEPENDENCIES HERE}
-* Python 3.7 ???
-* pipenv ???
+* Python 3.7
+
 
 ### Setup
-* {EDIT THIS}
-* Clone this repo from github
-* Install dependencies: `pipenv install`
+* Clone or download this repo from github
 
 ### Run
-{EDIT THIS}
 To run this project use:
 
-    pipenv run python main.py
-
-(Or just `python main.py` if running in a pipenv shell.)
+    python manage.py runServer
+    and press on the link
 
 ## Credits and References
-* {ADD REFERENCES HERE}
+thanks a lot to Ronny Sherer and Udi Oron for the lot of help
 

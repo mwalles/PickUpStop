@@ -15,9 +15,9 @@ from django.urls import path
 from .views import Person, person_detail, person_welcome, add_person, screen_app, get_message,run, add_consume
 
 urlpatterns = [
-    path('',run,name = "run"),
-    path('<int:pk>/',screen_app, name="main screen "),
-    path('details/',person_welcome, name="details"),
+    path('', run, name="run"),
+    path('<int:pk>/', screen_app, name="main screen "),
+    path('details/', person_welcome, name="details"),
     # path('add_consume/', add_consume, name="add_consume"),
     # path('get_message/', get_message, name="get_message"),
     path('add/', add_person, name="add"),
