@@ -1,0 +1,1757 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-01-20T15:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463407940",
+        "building": "yes",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.7439266,
+              31.9781845
+            ],
+            [
+              34.7439638,
+              31.9782086
+            ],
+            [
+              34.7438688,
+              31.9783142
+            ],
+            [
+              34.7438316,
+              31.9782901
+            ],
+            [
+              34.7439266,
+              31.9781845
+            ]
+          ]
+        ]
+      },
+      "id": "way/463407940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429882321",
+        "name": "חיפה מרכז השמונה",
+        "name:en": "Haifa Center HaShmona",
+        "name:he": "חיפה מרכז השמונה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/2100.aspx",
+        "wikidata": "Q2915713",
+        "wikipedia": "en:Haifa Center HaShmona Railway Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9973626,
+          32.8223019
+        ]
+      },
+      "id": "node/429882321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/461613375",
+        "name": "כפר חבד",
+        "name:en": "Kfar Chabad",
+        "name:he": "כפר חבד",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q339967",
+        "wikipedia": "he:תחנת הרכבת כפר חב\"ד"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8533234,
+          31.9928956
+        ]
+      },
+      "id": "node/461613375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505120454",
+        "addr:city": "خزاعة",
+        "name": "محطة خزاعة للبترول",
+        "name:ar": "محطة خزاعة للبترول",
+        "name:en": "Khuza'a",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3609882,
+          31.3123929
+        ]
+      },
+      "id": "node/505120454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/609582810",
+        "name": "ראשון לציון הראשונים",
+        "name:en": "Rishon LeTsiyyon HaRishonim",
+        "name:he": "ראשון לציון הראשונים",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/rishon-letsiyon-harishonim",
+        "wikidata": "Q1821546",
+        "wikipedia": "he:תחנת הרכבת ראשון לציון - הראשונים"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8030803,
+          31.948854
+        ]
+      },
+      "id": "node/609582810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615947115",
+        "name": "מרכז הכרמל",
+        "name:en": "Merkaz HaCarmel",
+        "name:en1": "Gan HaEm",
+        "name:he": "מרכז הכרמל",
+        "name:he1": "גן האם",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9879087,
+          32.8046778
+        ]
+      },
+      "id": "node/615947115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616484210",
+        "name": "עיר תחתית",
+        "name:en": "Downtown",
+        "name:en1": "Kikar Paris",
+        "name:he": "עיר תחתית",
+        "name:he1": "ככר פריז",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9997313,
+          32.8174901
+        ]
+      },
+      "id": "node/616484210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616484212",
+        "name": "מסדה",
+        "name:en": "Masada",
+        "name:he": "מסדה",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9923834,
+          32.8096602
+        ]
+      },
+      "id": "node/616484212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616484913",
+        "name": "גולומב",
+        "name:en": "Golomb",
+        "name:en1": "Bnei Tsiyon",
+        "name:he": "גולומב",
+        "name:he1": "בני ציון",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9904997,
+          32.8075717
+        ]
+      },
+      "id": "node/616484913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621348196",
+        "alt_name:en": "Be'er Sheva North University",
+        "name": "באר שבע צפון-אוניברסיטה",
+        "name:en": "Beer Sheva North - University",
+        "name:he": "באר שבע צפון-אוניברסיטה",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2490620",
+        "wikipedia": "he:תחנת הרכבת באר שבע צפון"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8093958,
+          31.2618954
+        ]
+      },
+      "id": "node/621348196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2906198781",
+        "name": "חדרה מערב",
+        "name:en": "Hadera West",
+        "name:he": "חדרה מערב",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2916321",
+        "wikipedia": "he:תחנת הרכבת חדרה מערב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.899335,
+          32.4383796
+        ]
+      },
+      "id": "node/2906198781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2914229359",
+        "name": "הרצליה",
+        "name:en": "Herzelia",
+        "name:he": "הרצליה",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2915718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8175864,
+          32.1639806
+        ]
+      },
+      "id": "node/2914229359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2923878193",
+        "fixme": "name, name:he mismatch. Flagged by SafwatHalaby_bot-nameCopy",
+        "name": "(חיפה-חוף הכרמל (ע״ש רזיאל",
+        "name:en": "Haifa-Hof HaKarmel (Razi`el)",
+        "name:he": "חיפה-חוף הכרמל (ע״ש רזיאל)",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/haifa-hof-hakarmel-(razi-el)",
+        "wikidata": "Q2916594",
+        "wikipedia": "he:תחנת הרכבת חיפה חוף הכרמל"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.957457,
+          32.7935137
+        ]
+      },
+      "id": "node/2923878193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618401",
+        "name": "תל אביב אוניברסיטה",
+        "name:en": "Tel Aviv University",
+        "name:he": "תל אביב אוניברסיטה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/3600.aspx",
+        "wikidata": "Q2915693",
+        "wikipedia": "he:תחנת הרכבת תל אביב אוניברסיטה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8046101,
+          32.1037064
+        ]
+      },
+      "id": "node/2930618401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618402",
+        "name": "תל אביב סבידור מרכז",
+        "name:en": "Tel Aviv Savidor Center",
+        "name:he": "תל אביב סבידור מרכז",
+        "name:ru": "Тель Авив Савидор Центр",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/3700.aspx",
+        "wikidata": "Q2915697",
+        "wikipedia": "he:תחנת הרכבת תל אביב מרכז"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7983117,
+          32.0842437
+        ]
+      },
+      "id": "node/2930618402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618403",
+        "name": "תל אביב השלום",
+        "name:en": "Tel Aviv Hashalom",
+        "name:he": "תל אביב השלום",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/4600.aspx",
+        "wheelchair": "limited",
+        "wikidata": "Q2474209",
+        "wikipedia": "he:תחנת הרכבת תל אביב השלום"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7931642,
+          32.0735594
+        ]
+      },
+      "id": "node/2930618403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618406",
+        "name": "בית יהושע",
+        "name:en": "Beit Yehoshua",
+        "name:he": "בית יהושע",
+        "name:ru": "Бейт Иеошуа",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/bet-yehoshua",
+        "wikidata": "Q671778",
+        "wikipedia": "he:תחנת הרכבת בית יהושע"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.860233,
+          32.2626037
+        ]
+      },
+      "id": "node/2930618406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618410",
+        "name": "חיפה בת גלים",
+        "name:en": "Haifa Bat Galim",
+        "name:he": "חיפה בת גלים",
+        "name:ru": "Хайфа Бат Галим",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2019997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9819163,
+          32.8303311
+        ]
+      },
+      "id": "node/2930618410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618411",
+        "name": "מרכזית המפרץ",
+        "name:en": "HaMifrats Central Station",
+        "name:he": "מרכזית המפרץ",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q6625881",
+        "wikipedia": "he:תחנת הרכבת מרכזית המפרץ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.037059,
+          32.7938724
+        ]
+      },
+      "id": "node/2930618411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618412",
+        "name": "חוצות המפרץ",
+        "name:en": "Hutzot Hamifratz",
+        "name:he": "חוצות המפרץ",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/hutsot-hamifrats",
+        "wikidata": "Q2759597",
+        "wikipedia": "he:תחנת הרכבת חוצות המפרץ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0544169,
+          32.8094005
+        ]
+      },
+      "id": "node/2930618412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618413",
+        "name": "קרית חיים",
+        "name:en": "Kiryat Haim",
+        "name:he": "קרית חיים",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/kiryat-hayim",
+        "wikidata": "Q2916440",
+        "wikipedia": "he:תחנת הרכבת קריית חיים"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0642744,
+          32.8248135
+        ]
+      },
+      "id": "node/2930618413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618414",
+        "name": "קרית מוצקין",
+        "name:en": "Kiryat Motzkin",
+        "name:he": "קרית מוצקין",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/kiryat-motzkin",
+        "wikidata": "Q1897572",
+        "wikipedia": "he:תחנת הרכבת קריית מוצקין"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0699238,
+          32.8329575
+        ]
+      },
+      "id": "node/2930618414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618415",
+        "name": "עכו",
+        "name:ar": "عكا",
+        "name:en": "Acre",
+        "name:he": "עכו",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/ako",
+        "wikidata": "Q2916443",
+        "wikipedia": "he:תחנת הרכבת עכו"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0830583,
+          32.9281903
+        ]
+      },
+      "id": "node/2930618415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618418",
+        "name": "בת ים - יוספטל",
+        "name:en": "Bat Yam - Yoseftal",
+        "name:he": "בת ים - יוספטל",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/bat-yam-yoseftal",
+        "wikidata": "Q2919760",
+        "wikipedia": "he:תחנת הרכבת בת ים - יוספטל"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7619817,
+          32.0146109
+        ]
+      },
+      "id": "node/2930618418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618419",
+        "name": "בת ים - קוממיות",
+        "name:en": "Bat Yam - Komemiyyut",
+        "name:he": "בת ים - קוממיות",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/bat-yam-komemiyut",
+        "wikidata": "Q2919557",
+        "wikipedia": "he:תחנת הרכבת בת ים - קוממיות"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7593469,
+          32.0008316
+        ]
+      },
+      "id": "node/2930618419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618420",
+        "name": "ראשון לציון - משה דיין",
+        "name:en": "Rishon LeTsiyyon - Moshe Dayan",
+        "name:he": "ראשון לציון - משה דיין",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/rishon-letsiyon-moshe-dayan",
+        "wikidata": "Q2919859",
+        "wikipedia": "he:תחנת הרכבת ראשון לציון משה דיין"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7572847,
+          31.9876999
+        ]
+      },
+      "id": "node/2930618420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618421",
+        "name": "יבנה - מערב",
+        "name:en": "Yavne - West",
+        "name:he": "יבנה - מערב",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2919528",
+        "wikipedia": "he:תחנת הרכבת יבנה מערב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7312217,
+          31.8911797
+        ]
+      },
+      "id": "node/2930618421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618422",
+        "fixme": "name, name:he mismatch. Flagged by SafwatHalaby_bot-nameCopy",
+        "name": "אשדוד עד הלום (ע\"ש בר כוכבא)",
+        "name:en": "Ashdod Ad Halom",
+        "name:he": "אשדוד עד הלום (ע\"ש בר כוכבא(",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2638309",
+        "wikipedia": "he:תחנת הרכבת אשדוד עד הלום"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.666238,
+          31.7739421
+        ]
+      },
+      "id": "node/2930618422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618423",
+        "name": "אשקלון",
+        "name:en": "Ashkelon",
+        "name:he": "אשקלון",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2620226",
+        "wikipedia": "he:תחנת הרכבת אשקלון"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6044924,
+          31.675934
+        ]
+      },
+      "id": "node/2930618423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618425",
+        "alt_name:en": "Be'er Sheva Center",
+        "name": "באר שבע מרכז",
+        "name:en": "Be'er Sheva Merkaz",
+        "name:he": "באר שבע מרכז",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q1889672",
+        "wikipedia": "he:תחנת הרכבת באר שבע מרכז"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7983837,
+          31.2430764
+        ]
+      },
+      "id": "node/2930618425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930618427",
+        "alt_name:en": "Kiryat Gat",
+        "name": "קריית גת",
+        "name:en": "Kuryat Gat",
+        "name:he": "קריית גת",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q528623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7779276,
+          31.6031485
+        ]
+      },
+      "id": "node/2930618427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930682106",
+        "name": "ירושלים מלחה",
+        "name:en": "Jerusalem Malcha",
+        "name:he": "ירושלים מלחה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2776726",
+        "wikipedia": "he:תחנת הרכבת ירושלים מלחה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1882146,
+          31.7477545
+        ]
+      },
+      "id": "node/2930682106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930682112",
+        "name": "פתח תקווה-קריית אריה",
+        "name:en": "Petah Tikva-Kiryat Arye",
+        "name:he": "פתח תקווה-קריית אריה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/petah-tikva-kiryat-arye",
+        "wikidata": "Q2114107",
+        "wikipedia": "he:תחנת הרכבת פתח תקווה - קריית אריה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8628355,
+          32.1062501
+        ]
+      },
+      "id": "node/2930682112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930682113",
+        "name": "פתח תקווה-סגולה",
+        "name:en": "Petah Tikva-Segula",
+        "name:he": "פתח תקווה-סגולה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/petah-tikva-segula",
+        "wikidata": "Q2915706",
+        "wikipedia": "he:תחנת הרכבת פתח תקווה סגולה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9010307,
+          32.1118894
+        ]
+      },
+      "id": "node/2930682113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930682115",
+        "name": "ראש העין - צפון",
+        "name:en": "Rosh Ha'Ayin-North",
+        "name:he": "ראש העין - צפון",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/rosh-haayin-north",
+        "wikidata": "Q2915720",
+        "wikipedia": "he:תחנת הרכבת ראש העין צפון"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9344654,
+          32.1206366
+        ]
+      },
+      "id": "node/2930682115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2931455067",
+        "name": "מודיעין מרכז",
+        "name:en": "Modi'in Center",
+        "name:he": "מודיעין מרכז",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2349293",
+        "wikipedia": "he:תחנת הרכבת מודיעין מרכז"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0057199,
+          31.9012099
+        ]
+      },
+      "id": "node/2931455067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2931455068",
+        "name": "פאתי מודיעין",
+        "name:en": "Pa'atai Modi'in",
+        "name:he": "פאתי מודיעין",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2690388",
+        "wikipedia": "he:תחנת הרכבת פאתי מודיעין"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9606982,
+          31.8931196
+        ]
+      },
+      "id": "node/2931455068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2942466195",
+        "name": "כרמיאל",
+        "name:ar": "كرميئيل",
+        "name:en": "Karmiel",
+        "name:he": "כרמיאל",
+        "operator": "Israel Railways",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/karmiel",
+        "wikidata": "Q6372215",
+        "wikipedia": "he:תחנת הרכבת כרמיאל"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2972797,
+          32.9242726
+        ]
+      },
+      "id": "node/2942466195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3086081414",
+        "name": "יבנה - מזרח",
+        "name:en": "Yavne - East",
+        "name:he": "יבנה - מזרח",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2010488",
+        "wikipedia": "he:תחנת הרכבת יבנה מזרח"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7438915,
+          31.8613359
+        ]
+      },
+      "id": "node/3086081414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3090784765",
+        "name": "בית שמש",
+        "name:en": "Bet Shemesh",
+        "name:he": "בית שמש",
+        "operator": "Israel Railways",
+        "railway": "station",
+        "wikidata": "Q2915696",
+        "wikipedia": "he:תחנת הרכבת בית שמש"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9893645,
+          31.7578195
+        ]
+      },
+      "id": "node/3090784765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3130051677",
+        "name": "דימונה",
+        "name:en": "Dimona",
+        "name:he": "דימונה",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2919277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0118331,
+          31.0689229
+        ]
+      },
+      "id": "node/3130051677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3566973254",
+        "name": "רחובות (ע\"ש אהוד הדר)",
+        "name:en": "Rechovot",
+        "name:he": "רחובות (ע\"ש אהוד הדר)",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/5200.aspx",
+        "wikidata": "Q2916598",
+        "wikipedia": "he:תחנת הרכבת רחובות"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8069084,
+          31.9091027
+        ]
+      },
+      "id": "node/3566973254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703588164",
+        "name": "קיסריה-פרדס חנה",
+        "name:en": "Caesarea-Pardes Hana",
+        "name:he": "קיסריה-פרדס חנה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/2820.aspx",
+        "wikidata": "Q1953238",
+        "wikipedia": "he:תחנת הרכבת קיסריה - פרדס חנה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95417,
+          32.4852609
+        ]
+      },
+      "id": "node/3703588164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703591031",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "נתניה",
+        "name:en": "Netanya",
+        "name:he": "נתניה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2915701",
+        "wikipedia": "he:תחנת הרכבת נתניה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8693256,
+          32.3199544
+        ]
+      },
+      "id": "node/3703591031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3712563183",
+        "alt_name": "Bnei Brak",
+        "fixme": "name, name:he mismatch. Flagged by SafwatHalaby_bot-nameCopy",
+        "name": "בני ברק - רמת החייל",
+        "name:en": "Bne Brak",
+        "name:he": "בני ברק -רמת החייל",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/bne-brak",
+        "wikidata": "Q920545",
+        "wikipedia": "he:תחנת הרכבת בני ברק – רמת החייל"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8305499,
+          32.1028916
+        ]
+      },
+      "id": "node/3712563183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729320319",
+        "name": "הנביאים",
+        "name:en": "HaNeviim",
+        "name:en1": "HaNevi'im",
+        "name:he": "הנביאים",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9950428,
+          32.8126212
+        ]
+      },
+      "id": "node/3729320319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978658306",
+        "name": "חולון - וולפסון",
+        "name:en": "Holon - Wolfson",
+        "name:he": "חולון - וולפסון",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/4660.aspx",
+        "wikidata": "Q2919565",
+        "wikipedia": "he:תחנת הרכבת חולון - וולפסון"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7596909,
+          32.0353136
+        ]
+      },
+      "id": "node/3978658306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978658307",
+        "name": "צומת חולון",
+        "name:en": "Holon Junction",
+        "name:he": "צומת חולון",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/4640.aspx",
+        "wikidata": "Q2919536",
+        "wikipedia": "he:תחנת הרכבת צומת חולון"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7764147,
+          32.0370402
+        ]
+      },
+      "id": "node/3978658307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978658308",
+        "name": "תל אביב - ההגנה",
+        "name:en": "TelAviv -HaHagana",
+        "name:he": "תל אביב - ההגנה",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/tel-aviv-hahagana",
+        "wikidata": "Q1840615",
+        "wikipedia": "he:תחנת הרכבת תל אביב ההגנה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7847998,
+          32.0541503
+        ]
+      },
+      "id": "node/3978658308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982698630",
+        "name": "לוד - גני אביב",
+        "name:en": "Lod - Gane Aviv",
+        "name:he": "לוד - גני אביב",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/5150.aspx",
+        "wikidata": "Q656218",
+        "wikipedia": "he:תחנת הרכבת לוד גני אביב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8787038,
+          31.9670338
+        ]
+      },
+      "id": "node/3982698630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982712778",
+        "name": "נמל תעופה בן גוריון",
+        "name:en": "Ben Gurion Airport",
+        "name:he": "נמל תעופה בן גוריון",
+        "name:pl": "Lotnisko im. Ben Guriona",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "he:תחנת הרכבת נמל התעופה בן-גוריון",
+        "wikipedia:pl": "Ben Gurion Airport (stacja kolejowa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8704796,
+          32.0004041
+        ]
+      },
+      "id": "node/3982712778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982765958",
+        "name": "הוד השרון - סוקולוב",
+        "name:en": "Hod HaSharon - Sokolov",
+        "name:he": "הוד השרון - סוקולוב",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/hod-hasharon-sokolov",
+        "wikidata": "Q2452539",
+        "wikipedia": "he:תחנת הרכבת הוד השרון - סוקולוב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9020123,
+          32.1700045
+        ]
+      },
+      "id": "node/3982765958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982780858",
+        "name": "כפר סבא-נורדאו (ע״ש קוסטיוק)",
+        "name:en": "Kfar Sava-Nordau (A.Kostyuk)",
+        "name:he": "כפר סבא-נורדאו (ע״ש קוסטיוק)",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/kfar-sava-nordau-(a-kostyuk)",
+        "wikidata": "Q2289258",
+        "wikipedia": "he:תחנת הרכבת כפר סבא - נורדאו"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9167978,
+          32.1674727
+        ]
+      },
+      "id": "node/3982780858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982823163",
+        "name": "נתיבות",
+        "name:en": "Netivot",
+        "name:he": "נתיבות",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q6586557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5717114,
+          31.4107487
+        ]
+      },
+      "id": "node/3982823163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3988544984",
+        "name": "עתלית",
+        "name:en": "Atlit",
+        "name:he": "עתלית",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2776358",
+        "wikipedia": "he:תחנת הרכבת עתלית"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9402221,
+          32.6927638
+        ]
+      },
+      "id": "node/3988544984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3988591607",
+        "name": "אופקים",
+        "name:ar": "أوفاكيم",
+        "name:en": "Ofakim",
+        "name:he": "אופקים",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/ofakim",
+        "wikidata": "Q6666297",
+        "wikipedia": "he:תחנת הרכבת אופקים"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6342302,
+          31.3215098
+        ]
+      },
+      "id": "node/3988591607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060304995",
+        "name": "רמלה",
+        "name:en": "Ramla",
+        "name:he": "רמלה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/ramla",
+        "wikidata": "Q2357570",
+        "wikipedia": "he:תחנת הרכבת רמלה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8767285,
+          31.9292206
+        ]
+      },
+      "id": "node/4060304995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127965809",
+        "name": "קריית מלאכי - יואב",
+        "name:ar": "كِريات ملأخي - يوآف",
+        "name:en": "Kiryat Mal'akhi - Yoav",
+        "name:he": "קריית מלאכי - יואב",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q6693359",
+        "wikipedia": "he:תחנת הרכבת קריית מלאכי – יואב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8224438,
+          31.7471115
+        ]
+      },
+      "id": "node/4127965809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208581362",
+        "name": "הדר עירייה",
+        "name:en": "Hadar – City Hall",
+        "name:en1": "Solel Boneh",
+        "name:he": "הדר עירייה",
+        "name:he1": "סולל בונה",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9973112,
+          32.8146561
+        ]
+      },
+      "id": "node/4208581362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440444254",
+        "name": "בית שאן",
+        "name:en": "Beit She'an",
+        "name:he": "בית שאן",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q25488709",
+        "wikipedia": "he:תחנת הרכבת בית שאן"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.488526,
+          32.5150047
+        ]
+      },
+      "id": "node/4440444254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440444255",
+        "name": "עפולה (ע\"ש רפאל איתן)",
+        "name:en": "Afula",
+        "name:he": "עפולה (ע\"ש רפאל איתן)",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/afula",
+        "wikidata": "Q12412040",
+        "wikipedia": "he:תחנת הרכבת עפולה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2952264,
+          32.6215632
+        ]
+      },
+      "id": "node/4440444255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440447730",
+        "name": "מגדל העמק - כפר ברוך",
+        "name:en": "Migdal HaEmek – Kfar Baruch",
+        "name:he": "מגדל העמק - כפר ברוך",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q27949702",
+        "wikipedia": "he:תחנת הרכבת מגדל העמק-כפר ברוך"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2094541,
+          32.6472074
+        ]
+      },
+      "id": "node/4440447730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440447731",
+        "name": "יקנעם - כפר יהושע",
+        "name:en": "Yokneam – Kfar Yehoshua",
+        "name:he": "יקנעם - כפר יהושע",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/yokneam-kfar-yehoshua",
+        "wikidata": "Q27650410",
+        "wikipedia": "he:תחנת הרכבת יקנעם-כפר יהושע"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.125769,
+          32.6810411
+        ]
+      },
+      "id": "node/4440447731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4482054540",
+        "name": "נתניה ספיר",
+        "name:en": "Netanya Sapir",
+        "name:he": "נתניה ספיר",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "http://www.rail.co.il/HE/Stations/Pages/3310.aspx",
+        "wikidata": "Q6587064",
+        "wikipedia": "he:תחנת הרכבת נתניה - ספיר"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.865508,
+          32.2796735
+        ]
+      },
+      "id": "node/4482054540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4482230311",
+        "name": "שדרות",
+        "name:en": "Sderot",
+        "name:he": "שדרות",
+        "name:ru": "Сдерот",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q6575849",
+        "wikipedia": "he:תחנת הרכבת שדרות"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5853741,
+          31.5155818
+        ]
+      },
+      "id": "node/4482230311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590837774",
+        "name": "לוד",
+        "name:en": "Lod",
+        "name:he": "לוד",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/lod",
+        "wikidata": "Q2440741",
+        "wikipedia": "he:תחנת הרכבת לוד"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8755854,
+          31.9459553
+        ]
+      },
+      "id": "node/4590837774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590837775",
+        "name": "בנימינה",
+        "name:en": "Binyamina",
+        "name:he": "בנימינה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q2144130",
+        "wikipedia": "he:תחנת הרכבת בנימינה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9496293,
+          32.5145534
+        ]
+      },
+      "id": "node/4590837775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612295142",
+        "name": "מרכזית המפרץ",
+        "name:en": "HaMifrats Central Station",
+        "name:he": "מרכזית המפרץ",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0331437,
+          32.7928083
+        ]
+      },
+      "id": "node/4612295142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903319585",
+        "name": "באר יעקב",
+        "name:en": "Beer Yakov",
+        "name:he": "באר יעקב",
+        "operator": "Israel Railways",
+        "railway": "station",
+        "website": "https://www.rail.co.il/stations/beer-yaakov",
+        "wikidata": "Q2916478",
+        "wikipedia": "he:תחנת הרכבת באר יעקב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8305707,
+          31.9324623
+        ]
+      },
+      "id": "node/4903319585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082642028",
+        "name": "אחיהוד",
+        "name:ar": "أحيهود",
+        "name:en": "Ahihud",
+        "name:he": "אחיהוד",
+        "operator": "Israel Railways",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/ahihud",
+        "wikidata": "Q6541297",
+        "wikipedia": "he:תחנת הרכבת אחיהוד"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1734472,
+          32.9116083
+        ]
+      },
+      "id": "node/5082642028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188605493",
+        "name": "להבים רהט",
+        "name:en": "Lehavim Rahat",
+        "name:he": "להבים רהט",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/lehavim-rahat",
+        "wikidata": "Q2521591",
+        "wikipedia": "he:תחנת הרכבת להבים - רהט"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7981649,
+          31.3698184
+        ]
+      },
+      "id": "node/5188605493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202426525",
+        "name": "נהריה",
+        "name:ar": "نهَرِيا",
+        "name:en": "Nahariya",
+        "name:he": "נהריה",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.rail.co.il/stations/nahariya",
+        "wikidata": "Q2454295",
+        "wikipedia": "he:תחנת הרכבת נהריה"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0988288,
+          33.0049493
+        ]
+      },
+      "id": "node/5202426525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5705790740",
+        "name": "רעננה מערב",
+        "name:en": "Ra'anana West",
+        "name:he": "רעננה מערב",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q20502866",
+        "wikipedia": "he:תחנת הרכבת רעננה מערב"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8508319,
+          32.180157
+        ]
+      },
+      "id": "node/5705790740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5705790741",
+        "name": "רעננה דרום",
+        "name:en": "Ra'anana South",
+        "name:he": "רעננה דרום",
+        "operator": "Israel Railways",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q25492281",
+        "wikipedia": "he:תחנת הרכבת רעננה דרום"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866033,
+          32.1726542
+        ]
+      },
+      "id": "node/5705790741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5930479438",
+        "name": "ירושלים - יצחק נבון",
+        "name:en": "Jerusalem - Yitzhak Navon",
+        "name:he": "ירושלים - יצחק נבון",
+        "operator": "רכבת ישראל",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2023952,
+          31.7882434
+        ]
+      },
+      "id": "node/5930479438"
+    }
+  ]
+}
