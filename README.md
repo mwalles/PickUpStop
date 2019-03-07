@@ -8,13 +8,13 @@ A digital board that manages rides from train stations to nearby areas
 
 ## Screenshots
 
-![SCREESHOT DECSRIPTION](screenshots/main_screen.PNG)
+![SCREESHOT DECSRIPTION](main_screen.PNG)
 
-![SCREESHOT DECSRIPTION](screenshots/main_screen2.PNG)
+![SCREESHOT DECSRIPTION](main_screen2.PNG)
 
 after scanning QR code in the right: 
 
-![SCREESHOT DECSRIPTION](screenshots/details_screenShot.PNG)
+![SCREESHOT DECSRIPTION](details_screenShot.PNG)
 
 ### Prerequisites
 * Python 3.7
