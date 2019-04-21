@@ -1,7 +1,7 @@
 # PickUpStop
 A digital board that manages rides from train stations to nearby areas
 
-* Michale Walles
+* Michal Walles
 * Ruhami Tehila Bichman
 * Elisheva Shmuel
 * Shilat Mayzel Feuchtwanger
